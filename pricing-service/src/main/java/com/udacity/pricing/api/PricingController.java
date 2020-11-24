@@ -15,7 +15,7 @@ import org.springframework.web.server.ResponseStatusException;
  */
 @RestController
 @RequestMapping("/services/price")
-public class PricingController {
+public class    PricingController {
 
     /**
      * Gets the price for a requested vehicle.
